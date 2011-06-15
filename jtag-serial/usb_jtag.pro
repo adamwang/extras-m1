@@ -1,4 +1,4 @@
-update=Wed 15 Jun 2011 10:17:56 CST
+update=Wed 15 Jun 2011 14:17:16 CST
 version=1
 last_client=pcbnew
 [cvpcb]
